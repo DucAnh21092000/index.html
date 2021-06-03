@@ -1,0 +1,246 @@
+{
+    "product": [{
+            "bookId": 1,
+            "userId": 1,
+            "bookTitle": "Chó sủa nhầm cây - Tại sao những gì ta biết về thành công có khi lại sai",
+            "bookImage": "https://salt.tikicdn.com/cache/w1200/ts/product/9f/25/e3/92cdd9d66b1a46a8a8854f6dab008f40.jpg",
+            "bookGenre": "Business",
+            "bookPrice": 109000,
+            "bookRelease": 2018,
+            "bookDescription": "CHÓ SỦA NHẦM CÂY - BARKING UP THE WRONG TREE - là quyển sách gây tiếng vang, liên tục nằm trong danh sách bestseller Amazon của tác giả kiêm chủ trang blog Barking up the wrong tree - Eric Barker. Xuyên suốt nội dung sách, Eric sẽ cùng chúng ta lý giải một cách đầy hóm hỉnh nhưng không kém phần chặt chẽ những quan niệm khác nhau về thành công từ trước đến nay. Và ở cuối con đường đó, mỗi người chúng ta sẽ tự tìm thấy ngưỡng cửa thành công cho riêng mình.",
+            "bookAuthor": "Eric Barker"
+        },
+        {
+            "bookId": 2,
+            "userId": 1,
+            "bookTitle": "Khởi Nghiệp Du Kích - Kinh Doanh Ít Vốn - Vận Dụng Nguồn Lực Nhỏ Chiến Thắng Cuộc Chơi Lớn (Tái Bản)",
+            "bookImage": "https://salt.tikicdn.com/ts/product/09/0b/73/fc11f1ac02c485af7dadd44c22ac8874.jpg",
+            "bookGenre": "Economic",
+            "bookPrice": 119000,
+            "bookRelease": 2019,
+            "bookDescription": "Hầu hết các doanh nhân trẻ khi chân ướt chân ráo khởi động doanh nghiệp của mình đều trong tình trạng thiếu hụt nguồn lực. Trong khi đó, đối thủ có sẵn trên thương trường thì luôn có lợi thế, kinh nghiệm và nhiều nguồn lực hơn. Để giành chiến thắng, người đến sau phải biết vận dụng những chiến thuật đặc biệt, linh hoạt, khôn ngoan và khéo léo, đúng theo tinh thần của chiến lược chiến tranh du kích.",
+            "bookAuthor": "Trần Thanh Phong"
+        },
+        {
+            "bookId": 3,
+            "userId": 1,
+            "bookTitle": "Cuộc Nổi Dậy Ở Phố Wall",
+            "bookImage": "https://salt.tikicdn.com/media/catalog/product/i/m/img983_8.jpg",
+            "bookGenre": "Business",
+            "bookPrice": 92650,
+            "bookRelease": 2017,
+            "bookDescription": "Đây là cuốn sách về kinh doanh bán chạy nhất năm 2014 theo xếp hạng của Amazon và là cuốn sách về kinh doanh đứng thứ hai trên thế giới năm 2014 khi xuất hiện liên tiếp trong 6 bảng xếp hạng sách kinh doanh hay nhất năm bao gồm: Amazon, Goodreads, Kirkus Reviews, Library Journal, The Financial Times, và The Guardian, chỉ sau cuốn “Tư bản trong thế kỷ 21” (Capital in the Twenty-first Century) của Thomas Piketty.",
+            "bookAuthor": "Flash Boys"
+        },
+        {
+            "bookId": 4,
+            "userId": 1,
+            "bookTitle": "7 Chiến Lược Thịnh Vượng Và Hạnh Phúc (Tái Bản)",
+            "bookImage": "https://salt.tikicdn.com/cache/w444/media/catalog/product/7/_/7_chien_luoc_thinh_vuong_va_hanh_phuc.jpg",
+            "bookGenre": "Business",
+            "bookPrice": 53130,
+            "bookRelease": 2020,
+            "bookDescription": "Những triết lý của Jim Rohn đã giúp hàng triệu người thay đổi cuộc sống của họ theo chiều hướng tốt đẹp hơn. Hãy xem nó có thể làm gì cho bạn. “Khi đọc cuốn sách này, bạn hãy tưởng tượng mình đang mua hàng. Bạn chỉ nên mua và sử dụng những ý tưởng nào có thể áp dụng ngay cho mình. Bạn chắc chắc không cần phải tin mọi thứ mà người khác nói nhưng cũng phải thật sự dành cho mình một cơ hội. Hãy đọc những trang tiếp theo với tâm trí rộng mở. Nếu có điều gì phù hợp thì bạn hãy thử nghiệm, nếu điều gì không phù hợp thì hãy loại bỏ. Hãy nhớ rằng dù là học viên của bất kỳ môn học nào thì bạn cũng không chỉ đơn thuần là người đi theo.",
+            "bookAuthor": "Jim Rohn"
+        },
+        {
+            "bookId": 5,
+            "userId": 2,
+            "bookTitle": "Lịch Sử Của Trà",
+            "bookImage": "https://product.hstatic.net/200000017360/product/hh-lich-su-cua-tra_cf67258adad5437c9c4758731d8df5bc.jpg",
+            "bookGenre": "Knowledge",
+            "bookPrice": 135000,
+            "bookRelease": 2018,
+            "bookDescription": "LỊCH SỬ CỦA TRÀ cung cấp một cái nhìn tổng quát, tinh tế và đầy thú vị về dòng chảy hai ngàn năm của thứ đồ uống quyền lực này, đưa chúng ta du ngoạn qua vùng rừng núi Trung Quốc với những câu chuyện thần thoại, qua phòng trà Nhật Bản với các nghi thức trà đạo khắt khe, qua cả những bữa tiệc trà phù phiếm tại Anh hay các đồn điền trà bát ngát ở Ấn Độ và Sri Lanka.",
+            "bookAuthor": "Laura C.Martin"
+        },
+        {
+            "bookId": 6,
+            "userId": 2,
+            "bookTitle": "Năng Lượng Sống Từ Thảo Dược",
+            "bookImage": "https://www.fahasa.com/media/catalog/product/u/n/untitled-1_1.gif",
+            "bookGenre": "Knowledge",
+            "bookPrice": 260000,
+            "bookRelease": 2019,
+            "bookDescription": "Năng lượng sống từ thảo dược sẽ chỉ cho bạn cách làm thế nào để chuyển hóa các loại nguyên liệu thông thường thành thức ăn và dược liệu chữa bệnh. Qua hướng dẫn của dược sư Rosalee de la Forêt, bạn sẽ hiểu được cách làm thế nào để khớp các đặc tính của từng loại cây với nhu cầu của chính cơ thể mình, để có một cách tiếp cận cụ thể dành cho sức khỏe của cá nhân bạn và gia đình.",
+            "bookAuthor": "Rosalee De La Foret"
+        },
+        {
+            "bookId": 7,
+            "userId": 2,
+            "bookTitle": "Bản Thiết Kế Vĩ Đại (Tái Bản 2018)",
+            "bookImage": "https://i.pinimg.com/originals/51/8a/d6/518ad6b070b62add604339ed0442be7f.gif",
+            "bookGenre": "Knowledge",
+            "bookPrice": 49900,
+            "bookRelease": 2018,
+            "bookDescription": "Nội dung cuốn sách, như tác giả nói ngay từ dòng đầu tiên của chương một, là chuyện \"Bí ẩn của kiếp nhân sinh\", là những câu hỏi tối hậu về sự sống, vũ trụ và vạn vật: Tại sao phải có cái gì đó chứ không phải là hư không?, Tại sao chúng ta tồn tại?, Tại sao là tập hợp các định luật vật lý cụ thể này chứ không phải các tập hợp khác?",
+            "bookAuthor": "Stephen Hawking"
+        },
+        {
+            "bookId": 8,
+            "userId": 3,
+            "bookTitle": "Những Tìm Sâu Triết Học",
+            "bookImage": "https://www.khaitam.com/Data/Sites/1/Product/13429/nhung-tim-sau-triet-hoc.png",
+            "bookGenre": "Knowledge",
+            "bookPrice": 222000,
+            "bookRelease": 2019,
+            "bookDescription": "Được tóm gọn trong khoảng 700 nhận xét, tác phẩm Những tìm sâu triết học của Wittgenstein là kho báu cho những ai muốn tư duy một cách cẩn thận về đối tượng, ngôn ngữ, ký hiệu, loại |phạm trù| và các chủ đề khác, đặc biệt là các ứng dụng logic cấu trúc trong lập trình máy tính.",
+            "bookAuthor": "Ludwig Wittgenstein"
+        },
+        {
+            "bookId": 9,
+            "userId": 3,
+            "bookTitle": "Chữa Lành Ánh Sáng Bản Thể",
+            "bookImage": "https://product.hstatic.net/1000217031/product/chua_lanh_anh_sang_ban_the_bia_1_f473ed3abf89477f9db7271fb1f7e924.jpg",
+            "bookGenre": "Knowledge",
+            "bookPrice": 153900,
+            "bookRelease": 2016,
+            "bookDescription": "Giờ đây, lần đầu tiên, độc giả sẽ được chính Barbara kể câu chuyện về cuộc đời bà. Bạn có thể cảm thấy một số chủ đề hơi cổ và thậm chí lạc hậu. Điều này hoàn toàn không nằm ngoài dự đoán nếu xét đến việc Barbara Brennan lớn lên trong thập niên 1940 và sống tại một trang trại ở bang Wisconsin. Bà thường chia sẻ rằng, trong quãng đời từ lúc thơ bé đến khi trưởng thành, cho đến khi rời nhà để vào đại học, bà không được tiếp xúc với nhiều thứ lắm - ngoại trừ những con bò. Barbara trải qua thời thơ ấu trong giai đoạn mà roi vọt vẫn là hình thức trừng phạt thường thấy ở hầu hết các bậc cha mẹ. Ngay cả trong giai đoạn trưởng thành của bà, mọi thứ đều rất khác so với thế giới ngày nay. Tuy nhiên, từ cả quan điểm toàn cầu lẫn quan điểm cá nhân, thông điệp mà Barbara truyền đạt vẫn vượt ra ngoài giới hạn của thời gian. Trên quan điểm toàn cầu, những thách thức mà nhân loại của ngày hôm nay đang phải đương đầu cũng giống hệt như những thách thức trong quá khứ. Trên quan điểm của cá nhân, với tư cách là những con người, tất cả chúng ta đều mong ước được sống cuộc sống có ý nghĩa và phát huy tối đa tiềm năng sáng tạo của mình.",
+            "bookAuthor": "Barbara Brennan"
+        },
+        {
+            "bookId": 10,
+            "userId": 4,
+            "bookTitle": "Kỹ Thuật Sửa Chữa Xe Máy Nâng Cao (Tái Bản)",
+            "bookImage": "https://cf.shopee.vn/file/e9deffe612272ffed1b0f824b158b97d",
+            "bookGenre": "Technical",
+            "bookPrice": 78400,
+            "bookRelease": 2019,
+            "bookDescription": "Kỹ Thuật Sửa Chữa Xe Máy Nâng Cao bao gồm những kiến thức cơ bản về sửa chữa xe máy, bão dưỡng xe máy, điều chỉnh những bộ phận thường gặp, kỹ năng phán đoán các sự cố thường gặp. Hy vọng, cuốn sách sẽ trở thành cuốn cẩm nang hữu ích cho bạn đọc.",
+            "bookAuthor": "Hùng Lê"
+        },
+        {
+            "bookId": 11,
+            "userId": 6,
+            "bookTitle": "Không Gia Đình (Bìa Cứng)",
+            "bookImage": "https://product.hstatic.net/200000017360/product/khong-gia-dinh_bia-cung_10e1c152506f46598f2b6db632469219.jpg",
+            "bookGenre": "Literature",
+            "bookPrice": 113300,
+            "bookRelease": 2018,
+            "bookDescription": "Qua câu chuyện phiêu lưu hết sức hấp dẫn của chú bé Rémi, người ta thấy quyển sách ca ngợi lao động, ca ngợi tinh thần tự lập tự tin của tuổi trẻ, phát huy ý thức chịu đựng gian khổ, ca ngợi lao động nghệ thuật, khuyến khích tình bạn chân chính. Nó phản ánh cảnh lao động và sinh hoạt bấp bênh, nguy hiểm, đầy đe dọa của người thợ mỏ và của nhân dân lao động thành phố trong xã hội tư sản. Đồng thời nó thể hiện tình thương người, lòng biết ơn, tình hữu ái giai cấp ở những người lao động. Quyển sách lại diễn tả nhiều cảnh đẹp thiên nhiên, nhiều cảnh sinh hoạt hấp dẫn ở nông thôn và thành thị, giúp bạn đọc thêm phần hứng thú khi theo dõi câu chuyện, lại có thể mở rộng hiểu biết.",
+            "bookAuthor": "Hector Malot"
+        },
+        {
+            "bookId": 12,
+            "userId": 9,
+            "bookTitle": "Bá Tước Monte Cristo (Bìa Cứng)",
+            "bookImage": "https://www.fahasa.com/media/catalog/product/i/m/image_195509_1_10031.jpg",
+            "bookGenre": "Literature",
+            "bookPrice": 76600,
+            "bookRelease": 2018,
+            "bookDescription": "Bá tước Monte Cristo cũng là một câu chuyện về tình yêu, lòng thù hận và sự vị tha. Ở đây, ranh giới giữa thiện và ác tưởng như rõ ràng nhưng lại vô cùng mong manh. Bài học về cuộc sống mà tác giả dành tặng cho độc giả, đó là: “Trên đời này không có hạnh phúc mà cũng chẳng có bất hạnh, chỉ là sự chuyển biến từ trạng thái này qua trạng thái khác. Chỉ có những người nào đã trải qua cảnh khổ cực mới hưởng thụ được cảnh sung sướng. Chỉ có kẻ nào sắp chết mới biết cuộc sống là thiên đường. Hai anh chị hãy sống hạnh phúc bên nhau và nhớ kỹ rằng tất cả sự khôn ngoan của con người chỉ tóm tắt trong mấy chữ HI VỌNG và ĐỢI CHỜ\".",
+            "bookAuthor": "Alexandre Dumas"
+        },
+        {
+            "bookId": 13,
+            "userId": 10,
+            "bookTitle": "Sách Ảnh - Không Ảnh Đảo Và Bờ Biển Việt Nam",
+            "bookImage": "https://sachthongtan.vn/DataStore/4/89/Anh/Private/2015-3-1889/2015/03/18/9cc31846-9047-4d4c-8ed4-6c3bfb2cfd5e.jpg",
+            "bookGenre": "Magazine",
+            "bookPrice": 441000,
+            "bookRelease": 2015,
+            "bookDescription": "Giản Thanh Sơn là nhà báo, nghệ sĩ nhiếp ảnh hiếm hoi ở Việt Nam có cơ hội được bay nhiều trên các chuyến bay đặc biệt để thu vào ống kính của mình những hòn đảo ngoài khơi xa Tổ quốc. Bộ sách ảnh “Không ảnh đảo và bờ biển Việt Nam” là tập hợp những bức ảnh được chụp trong hàng chục năm qua từ những lần bay như thế của Giản Thanh Sơn. Với 445 hình ảnh được chọn lọc “Không ảnh đảo và bờ biển Việt Nam” đã bao quát gần như trọn vẹn những hùng vĩ, những sắc màu và cả những trạng thái ánh sáng đi qua một miền xanh thẳm của cây xanh và trùng dương. Thông qua sách ảnh, tác giả muốn gửi một thông điệp đến bạn bè thế giới về chủ quyền biển đảo Việt Nam, về tiềm năng kinh tế, du lịch và về môi trường thiên nhiên của Việt Nam. Cuốn sách được ví như một cuốn dư địa chí về đảo và bờ biển Việt Nam bằng hình với các chú thích, chỉ dẫn chi tiết. Trân trọng giới thiệu cuốn sách cùng bạn đọc.",
+            "bookAuthor": "Giản Thanh Sơn"
+        },
+        {
+            "bookId": 14,
+            "userId": 8,
+            "bookTitle": "Biển Trong Chúng Ta",
+            "bookImage": "https://cdn0.fahasa.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/i/m/image_180164_1_43_1_57_1_4_1_2_1_210_1_29_1_98_1_25_1_21_1_5_1_3_1_18_1_18_1_45_1_26_1_32_1_14_1_821.jpg",
+            "bookGenre": "Magazine",
+            "bookPrice": 270000,
+            "bookRelease": 2016,
+            "bookDescription": "Biển trong chúng ta",
+            "bookAuthor": "Mỹ Dũng"
+        },
+        {
+            "bookId": 15,
+            "userId": 5,
+            "bookTitle": "Đường Tống Truyền Kỳ",
+            "bookImage": "https://salt.tikicdn.com/cache/w1200/media/catalog/product/b/i/bia-duong-tong-truyen-ky.u5430.d20171009.t160855.551195.jpg",
+            "bookGenre": "History",
+            "bookPrice": 148000,
+            "bookRelease": 2020,
+            "bookDescription": "Chuyện tuy đã cũ, người tuy đã xưa, nhưng tình và ý thì vẫn vô cùng tươi mới. Giữa cõi đời say mê tranh danh đoạt lợi này, câu chuyện của Lư sinh mà vua Tự Đức năm xưa từng cảm thán “Khôn dại cùng chung ba thước đất, giàu sang chưa chín một nồi kê” dường như vẫn còn nguyên giá trị. Giữa cõi người tưởng như đã bão hòa mọi cảm xúc này, lời từ của Liễu Phú:",
+            "bookAuthor": "Lỗ Tấn"
+        },
+        {
+            "bookId": 16,
+            "userId": 5,
+            "bookTitle": "Tác Giả Hàm Ẩn Trong Tu Từ Học Tiểu Thuyết",
+            "bookImage": "https://lh3.googleusercontent.com/proxy/eWM2jMRWlNsAljpT6lqYQh3O1-JeP8tAvEg6fovnhG7UHJsoWij_0RcqbWA2dqv4qbfm-GIKlwyaToHeelGCYd1M2Q1rts71qtv3DQMquS748QDg4GAFDAzPPLmxZogtWHpZ1rx5AhRC1Ue4tVVyGQU",
+            "bookGenre": "Literature",
+            "bookPrice": 79200,
+            "bookRelease": 2019,
+            "bookDescription": "Công trình Tác giả hàm ẩn trong Tu từ học tiểu thuyết của tiến sĩ Cao Kim Lan có thể coi là quyển sách đánh dấu cho sự khởi đầu của một hướng nghiên cứu văn học mới chưa hề được quan tâm ở Việt Nam: Tu Từ học tiểu thuyết.",
+            "bookAuthor": "Cao Kim Lan"
+        },
+        {
+            "bookId": 17,
+            "userId": 7,
+            "bookTitle": "Grimgar - Ảo Ảnh Và Tro Tàn - Tập 4",
+            "bookImage": "https://nxbkimdong.com.vn/sites/default/files/4_16.jpg",
+            "bookGenre": "Light Novel",
+            "bookPrice": 59400,
+            "bookRelease": 2020,
+            "bookDescription": "“Người dẫn dắt và người được dẫn dắt.”",
+            "bookAuthor": "Jyumonji Ao"
+        },
+        {
+            "bookId": 18,
+            "userId": 4,
+            "bookTitle": "Thơ Xuân Quỳnh",
+            "bookImage": "https://lh3.googleusercontent.com/proxy/5IOozASImIJcqwTKh0uoY3X_txkjjUlT5C77m1we9rf5Z3ljdELhgrtpdtmLcdYboShzgdnyhhG8M1bISILTKSzAaLdLMzza29oChGPj5RbCXDdcfmJvBiL6L3JO1LYiV3jGojWSqD89nL7Dw9kYMa155dxJ-yRXAiRrxmzyv6c9gc1Q0i068JT5CkBzL7Aw1OISis7ZCmU9bGtdqMCh_2CE3K_r1nMYUJWNSninSg",
+            "bookGenre": "Literature",
+            "bookPrice": 54900,
+            "bookRelease": 2018,
+            "bookDescription": "Thơ Xuân Quỳnh giới thiệu tới bạn đọc những bài thơ tình giàu cảm xúc, nồng nàn và dữ dội như Thơ viết cho mình và những người con gái khác, Sóng hay những bài thơ dung dị viết tặng các con trai yêu quý của cô như Chùm thơ xuân cho ba con nhỏ (Mùa xuân mừng con thêm một tuổi). Tất cả nhờ tình yêu thương, thấm đẫm nữ tính ấy mà bất chấp mọi khổ đau, buồn phiền của một duyên phận nhiều lận đận, Xuân Quỳnh để lại trong thơ niềm tin vững chắc về sự hiện diện của hạnh phúc có thật giữa trần gian này.",
+            "bookAuthor": "Xuân Quỳnh"
+        },
+        {
+            "bookId": 19,
+            "userId": 10,
+            "bookTitle": "Truyện Kinh Dị Hay Rùng Mình: Dracul",
+            "bookImage": "https://salt.tikicdn.com/cache/w1200/ts/product/bc/45/41/debad9b378a3676d8187c82110bd3a93.jpg",
+            "bookGenre": "Literature",
+            "bookPrice": 140500,
+            "bookRelease": 2019,
+            "bookDescription": "Dracul được coi là phần trước của Dracula nhưng được viết sau bởi cháu trai của Bram Stoker (tác giả và là người tạo nên nhân vật Dracula) và J.D.Baker (tác giả 4MK), người từng được đề cử giải Bram Stoker dành cho truyện thể loại kinh dị.",
+            "bookAuthor": "J.D.Baker"
+        },
+        {
+            "bookId": 20,
+            "userId": 7,
+            "bookTitle": "Giải Mã Siêu Trí Nhớ",
+            "bookImage": "https://salt.tikicdn.com/cache/w444/ts/product/dd/04/33/6e0910413382398e83754498dfbf725d.png",
+            "bookGenre": "Business",
+            "bookPrice": 139000,
+            "bookRelease": 2018,
+            "bookDescription": "\"Giải mã siêu trí nhớ\" được in màu toàn bộ. Nội dung bao gồm nhiều phương pháp ghi nhớ đa dạng thông qua các ví dụ dí dỏm, hài hước và các hình ảnh minh hoạ trực quan sinh động, đồng thời giải mã các thử thách trong Giải đấu trí nhớ trên Thế giới và Siêu trí tuệ Việt Nam. Cuốn sách là toàn bộ các phương pháp ghi nhớ do tác giả Mai Tường Vân học hỏi và sáng tạo, cũng như kinh nghiệm đúc kết từ các trải nghiệm trong suốt thời gian gắn bó với lĩnh vực trí nhớ.",
+            "bookAuthor": "MAi Tường Vân"
+        },
+        {
+            "bookId": 21,
+            "userId": 4,
+            "bookTitle": "Thay Đổi Cuộc Sống Với Nhân Số Học",
+            "bookImage": "https://salt.tikicdn.com/cache/w444/ts/product/15/11/f8/56b303e000cb42faada663569fc5d7c9.jpg",
+            "bookGenre": "Knowledge",
+            "bookPrice": 156000,
+            "bookRelease": 2019,
+            "bookDescription": "Cuốn sách Thay đổi cuộc sống với Nhân số học là tác phẩm được chị Lê Đỗ Quỳnh Hương phát triển từ tác phẩm gốc “The Complete Book of Numerology” của tiến sỹ David A. Phillips, khiến bộ môn Nhân số học khởi nguồn từ nhà toán học Pythagoras trở nên gần gũi, dễ hiểu hơn với độc giả Việt Nam.",
+            "bookAuthor": "David A. Phillips"
+        },
+        {
+            "bookId": 22,
+            "userId": 6,
+            "bookTitle": "Payback Time - Ngày Đòi Nợ",
+            "bookImage": "https://salt.tikicdn.com/cache/w444/ts/product/3d/48/33/94b39d773b28290e9f4ed1daa53449eb.jpg",
+            "bookGenre": "Business",
+            "bookPrice": 299000,
+            "bookRelease": 2017,
+            "bookDescription": "“Một cuộc sống hạnh phúc được bắt đầu từ những quyết định đầu tư khôn ngoan”. Ngay ngày hôm nay, hãy bắt đầu quyết định đầu tư khôn ngoan của bạn bằng việc trang bị một hệ thống và phương pháp đầu tư hoàn chỉnh đã được chứng minh hiệu quả tuyệt đối qua thời gian được trình bày trong cuốn sách này. Bởi vì: Kiếm một số tiền lớn từ đầu tư chứng khoán chính là cách “trả thù” tốt nhất cho tương lai tài chính của bạn vốn đã bị cướp đi trước đây.",
+            "bookAuthor": "Phil Town"
+        }
+    ]
+
+}
